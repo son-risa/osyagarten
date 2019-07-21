@@ -115,7 +115,7 @@
         {
           "_params": {
             "token": "15455084485.727bfe1.7d7288b1071e48fdab6c27878eaa2f15",
-            "showTitle": false,
+            "showTitle": true,
             "layoutGridRadio": false,
             "imagesPerRowGrid": "5",
             "rows": "1",
@@ -126,15 +126,15 @@
             "fullWidth": false,
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#d8f1d5",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "<b>クラインガルテンの森のギャラリー</b><br>（インスタグラムとリンクしています）",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -143,7 +143,14 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-c"
+          "_anchor": "instagram-feed-block-c",
+          "_styles": {
+            ".inst__title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
@@ -163,7 +170,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>〒049-3515 北海道山越郡長万部町栗岡<br><br>\n<strong>Contacts</strong><br>\nEmail: osyagarten@gmail.com<br>",
+          "text1": "<strong>住所</strong><br>〒049-3515 北海道山越郡長万部町栗岡<br><br><strong>連絡先</strong><br>\nEmail: osyagarten@gmail.com<br>",
           "text2": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
