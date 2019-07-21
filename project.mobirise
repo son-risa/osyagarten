@@ -141,8 +141,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -152,10 +152,9 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "クラインガルテン長万部",
-              "placeId": "ChIJFyM1Vxn1n18RPYzgxeXBGYs",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d94054.76624431084!2d140.3021133!3d42.5508029!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f9ff51957352317%3A0x8b19c1e5c5e08c3d!2z44Kv44Op44Kk44Oz44Ks44Or44OG44Oz6ZW35LiH6YOo!5e0!3m2!1sja!2sjp!4v1563721872229!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
             }
           },
           "text1": "<strong>Address</strong><br>〒049-3515 北海道山越郡長万部町栗岡<br><br>\n<strong>Contacts</strong><br>\nEmail: osyagarten@gmail.com<br>",
@@ -165,7 +164,12 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-7"
+          "_anchor": "contacts2-7",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
