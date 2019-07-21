@@ -74,7 +74,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
@@ -86,12 +86,12 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "100年の森づくり",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "text": "「社団法人100年の森づくり」では、長万部の森を拠点として、子供からお年寄りまでその自然を楽しめ、感動と癒しを与える里山の森の再生を大きな目標を持って活動しています。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
