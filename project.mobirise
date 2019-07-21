@@ -74,12 +74,12 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20170725-4-640x480.jpeg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -88,7 +88,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "title": "100年の森づくり",
           "text": "「社団法人100年の森づくり」では、長万部の森を拠点として、子供からお年寄りまでその自然を楽しめ、感動と癒しを与える里山の森の再生を大きな目標を持って活動しています。",
