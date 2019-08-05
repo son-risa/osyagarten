@@ -4,7 +4,7 @@
 
 
 #menu-0 .navbar-toggler {
-  color: #000;
+  color: #000000;
 }
 #menu-0 .navbar-brand {
   font-size: 16px;
@@ -26,7 +26,7 @@
 
 
 #menu-h .navbar-toggler {
-  color: #000;
+  color: #000000;
 }
 #menu-h .navbar-brand {
   font-size: 16px;
@@ -40,4 +40,24 @@
 }
 #content4-m P {
   font-family: 'Open Sans', sans-serif;
+}
+#menu-c .navbar-toggler {
+  color: #000000;
+}
+#menu-c .navbar-brand {
+  font-size: 16px;
+}
+#menu-d .navbar-toggler {
+  color: #000000;
+}
+#menu-d .navbar-brand {
+  font-size: 16px;
+}
+#msg-box4-f .lead P {
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box4-g .lead P {
+  text-align: left;
+  font-size: 16px;
 }
