@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "osyagarten",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -489,7 +489,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "14",
             "paddingTop": "1",
@@ -535,7 +535,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">戻る</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-g",
           "_styles": {
