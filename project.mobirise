@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "osyagarten2",
-    "currentPage": "index.html",
+    "currentPage": "sien.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 877,
+    "uniqCompNum": 881,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "true",
@@ -1556,7 +1556,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676",
+              "color": "#232323",
               "text-align": "left"
             },
             ".mbr-section-subtitle DIV": {
@@ -1567,7 +1567,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    設立の趣旨\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    当法人は、クラインガルテン長万部の森の利用、整備及び保全並びに自然環境の保護及び整備を行い、それを活用して、自然と共生し心豊かな人生を目指す大人への支援及び自然のなかで児童や青少年の心身の健全な育成を目的とし、その目的に資するために次の事業を行います。\n                <div><br></div><br><div>1. 長万部栄原地区で里山づくりをすすめ、動物、植物、昆虫等の生物と人が共生する　　\n</div><div>自然環境の保護、整備及び保全を図る事業\n</div><div><br></div><div>2. 上記里山を活用し、自然教育等を通じて児童又は青少年の心身の健全な育成を目的\n</div><div>とする教育事業\n</div><div><br></div><div>3. 上記里山を活用し、大人の自然体験、環境教育・野外教育プログラム等を通じて、　　\n</div><div>自然と共生し心豊かな人生を目指す人を応援する事業\n</div><br><div><span style=\"font-size: 1rem;\">4. 前各号に反しない範囲で、当該地区にある資源を活用した林業、農業、造園業、漁業、&nbsp;</span></div><div>狩猟業、飲食業、観光業、旅館業、席貸業、旅行業、音楽事業及び一定の技芸教授業等の事業並びに食品、健康関連商品、化粧品の製造及び販売業</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    設立の趣旨\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    当法人は、クラインガルテン長万部の森の利用、整備及び保全並びに自然環境の保護及び整備を行い、それを活用して、自然と共生し心豊かな人生を目指す大人への支援及び自然のなかで児童や青少年の心身の健全な育成を目的とし、その目的に資するために次の事業を行います。\n                <div><br></div><br><div>1. 長万部栄原地区で里山づくりをすすめ、動物、植物、昆虫等の生物と人が共生する<span style=\"font-size: 1rem;\">自然環境の保護、整備及び保全を図る事業</span></div><div><br></div><div>2. 上記里山を活用し、自然教育等を通じて児童又は青少年の心身の健全な育成を目的<span style=\"font-size: 1rem;\">とする教育事業</span></div><div><br></div><div>3. 上記里山を活用し、大人の自然体験、環境教育・野外教育プログラム等を通じて、<span style=\"font-size: 1rem;\">自然と共生し心豊かな人生を目指す人を応援する事業</span></div><br><div><span style=\"font-size: 1rem;\">4. 前各号に反しない範囲で、当該地区にある資源を活用した林業、農業、造園業、漁業、&nbsp;</span><span style=\"font-size: 1rem;\">狩猟業、飲食業、観光業、旅館業、席貸業、旅行業、音楽事業及び一定の技芸教授業等の事業並びに食品、健康関連商品、化粧品の製造及び販売業</span></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rA8PbfO4Ak",
           "_anchor": "content4-np",
           "_protectedParams": [],
@@ -2911,7 +2911,7 @@
             }
           },
           "_name": "table1",
-          "_customHTML": "<section class=\"section-table\" group=\"Tables\" plugins=\"dataTables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n  <mbr-parameters>\n  <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n    <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n    <input type=\"range\" inline title=\"Columns\" name=\"tableColumns\" min=\"1\" max=\"50\" step=\"1\" value=\"1\">\n    <input type=\"range\" inline title=\"Rows\" name=\"tableRows\" min=\"1\" max=\"50\" step=\"1\" value=\"4\">\n    <input type=\"color\" title=\"Table Border Color\" name=\"tbColor\" value=\"#cccccc\">\n    <input type=\"checkbox\" title=\"Table Background\" name=\"tbBackground\" checked>\n    <input type=\"color\" title=\"Table Background Color\" name=\"tbBgColor\" value=\"#ffffff\" condition=\"tbBackground\">\n    <input type=\"checkbox\" title=\"Search\" name=\"isSearch\">\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n      <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n      <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n    </fieldset>\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n  <!-- End block parameters -->\n  </mbr-parameters>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n  </div>\n  <div class=\"container container-table\">\n      <h2 class=\"mbr-section-title mbr-fonts-style align-center pb-3\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n          情報開示</h2>\n      <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">一般社団法人100年の森づくり長万部の定款、全部事項証明書、損益計算書、貸借対照表を公開します。</h3>\n      <div class=\"table-wrapper\">\n        <div class=\"container\">\n          <div class=\"row search\" mbr-if=\"isSearch\">\n            <div class=\"col-md-6\"></div>\n            <div class=\"col-md-6\">\n                <div class=\"dataTables_filter\">\n                  <label mbr-text class=\"searchInfo mbr-fonts-style\" mbr-theme-style=\"display-7\">Search:</label>\n                  <input class=\"form-control input-sm\" disabled>\n                </div>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"container scroll\">\n          <table class=\"table\" mbr-class=\"{'isSearch':isSearch}\" cellspacing=\"0\">\n            <thead>\n              <tr class=\"table-heads \" mbr-list mbr-list-grow=\"tableColumns\">\n                  <th mbr-text class=\"head-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".head-item\">書類</th>\n                  \n                  \n                  \n              </tr>\n            </thead>\n\n            <tbody mbr-list mbr-list-grow=\"tableRows\">\n              <tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1MfPt2eIAmk88uB4nlTb5QBn8h3yR5kZw/view\" target=\"_blank\">一般社団法人100年の森づくり長万部 定款</a></td>\n                \n                \n                \n              </tr>\n              \n              \n              \n            <tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/145cYkI8nyP8eu9Zx39vN7j-JqPU7Xw85/view\" target=\"_blank\">履歴事項全部証明書</a></td>\n                \n                \n                \n              </tr><tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1sjay8UbHQrkIyHD0V0w5zK0WE5ll4udW/view\" target=\"_blank\">令和元年&nbsp;損益計算書</a></td>\n                \n                \n                \n              </tr><tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1BCpste8yrnpFK850OCcOxQoOw21xmRUP/view\">令和元年 貸借対照表</a></td>\n                \n                \n                \n              </tr></tbody>\n          </table>\n        </div>\n        <div class=\"container table-info-container\">\n          <div class=\"row info\" mbr-if=\"isSearch\">\n            <div class=\"col-md-6\">\n              <div class=\"dataTables_info mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <span mbr-text class=\"infoBefore\" data-app-selector=\".dataTables_info\">Showing</span>\n                <span class=\"inactive infoRows\"></span>\n                <span mbr-text class=\"infoAfter\" data-app-selector=\".dataTables_info\">entries</span>\n                <span mbr-text class=\"infoFilteredBefore\" data-app-selector=\".dataTables_info\">(filtered from</span>\n                <span class=\"inactive infoRows\"></span>\n                <span mbr-text class=\"infoFilteredAfter\" data-app-selector=\".dataTables_info\"> total entries)</span>\n              </div>\n            </div>\n            <div class=\"col-md-6\"></div>\n          </div>\n        </div>\n      </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"section-table\" group=\"Tables\" plugins=\"dataTables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n  <mbr-parameters>\n  <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n    <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n    <input type=\"range\" inline title=\"Columns\" name=\"tableColumns\" min=\"1\" max=\"50\" step=\"1\" value=\"1\">\n    <input type=\"range\" inline title=\"Rows\" name=\"tableRows\" min=\"1\" max=\"50\" step=\"1\" value=\"4\">\n    <input type=\"color\" title=\"Table Border Color\" name=\"tbColor\" value=\"#cccccc\">\n    <input type=\"checkbox\" title=\"Table Background\" name=\"tbBackground\" checked>\n    <input type=\"color\" title=\"Table Background Color\" name=\"tbBgColor\" value=\"#ffffff\" condition=\"tbBackground\">\n    <input type=\"checkbox\" title=\"Search\" name=\"isSearch\">\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n      <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n      <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n    </fieldset>\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n  <!-- End block parameters -->\n  </mbr-parameters>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n  </div>\n  <div class=\"container container-table\">\n      <h2 class=\"mbr-section-title mbr-fonts-style align-center pb-3\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n          情報開示</h2>\n      <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">一般社団法人100年の森づくり長万部の定款、全部事項証明書、損益計算書、貸借対照表を公開します。</h3>\n      <div class=\"table-wrapper\">\n        <div class=\"container\">\n          <div class=\"row search\" mbr-if=\"isSearch\">\n            <div class=\"col-md-6\"></div>\n            <div class=\"col-md-6\">\n                <div class=\"dataTables_filter\">\n                  <label mbr-text class=\"searchInfo mbr-fonts-style\" mbr-theme-style=\"display-7\">Search:</label>\n                  <input class=\"form-control input-sm\" disabled>\n                </div>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"container scroll\">\n          <table class=\"table\" mbr-class=\"{'isSearch':isSearch}\" cellspacing=\"0\">\n            <thead>\n              <tr class=\"table-heads \" mbr-list mbr-list-grow=\"tableColumns\">\n                  <th mbr-text class=\"head-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".head-item\">開示資料</th>\n                  \n                  \n                  \n              </tr>\n            </thead>\n\n            <tbody mbr-list mbr-list-grow=\"tableRows\">\n              <tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1MfPt2eIAmk88uB4nlTb5QBn8h3yR5kZw/view\" target=\"_blank\">一般社団法人100年の森づくり長万部 定款</a></td>\n                \n                \n                \n              </tr>\n              \n              \n              \n            <tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/145cYkI8nyP8eu9Zx39vN7j-JqPU7Xw85/view\" target=\"_blank\">履歴事項全部証明書</a></td>\n                \n                \n                \n              </tr><tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1sjay8UbHQrkIyHD0V0w5zK0WE5ll4udW/view\" target=\"_blank\">令和元年&nbsp;損益計算書</a></td>\n                \n                \n                \n              </tr><tr mbr-list mbr-list-grow=\"tableColumns\"> \n                <td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".body-item\"><a href=\"https://drive.google.com/file/d/1BCpste8yrnpFK850OCcOxQoOw21xmRUP/view\">令和元年 貸借対照表</a></td>\n                \n                \n                \n              </tr></tbody>\n          </table>\n        </div>\n        <div class=\"container table-info-container\">\n          <div class=\"row info\" mbr-if=\"isSearch\">\n            <div class=\"col-md-6\">\n              <div class=\"dataTables_info mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <span mbr-text class=\"infoBefore\" data-app-selector=\".dataTables_info\">Showing</span>\n                <span class=\"inactive infoRows\"></span>\n                <span mbr-text class=\"infoAfter\" data-app-selector=\".dataTables_info\">entries</span>\n                <span mbr-text class=\"infoFilteredBefore\" data-app-selector=\".dataTables_info\">(filtered from</span>\n                <span class=\"inactive infoRows\"></span>\n                <span mbr-text class=\"infoFilteredAfter\" data-app-selector=\".dataTables_info\"> total entries)</span>\n              </div>\n            </div>\n            <div class=\"col-md-6\"></div>\n          </div>\n        </div>\n      </div>\n    </div>\n</section>",
           "_cid": "rA9iCJJWZg",
           "_anchor": "table1-o1",
           "_protectedParams": [],
@@ -3321,6 +3321,25 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>TBD</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAdax1Pzeq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-od"
         }
       ]
     },
@@ -3731,21 +3750,55 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text P": {
-              "text-align": "left"
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
             }
           },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>一般社団法人 １００年の森づくり長万部の会員規約とロッジ・ガルテンの森の使用規約</b>\n</p><p><span style=\"font-size: 1rem;\">２０１９年７月２４日&nbsp;</span></p><p>第１条（会員）\n</p><p><span style=\"font-size: 1rem;\">本社団の目的に賛同し、理事会が承認した者を会員とし、会員は次の通りとする。&nbsp;</span></p><p><span style=\"font-size: 1rem;\">（１）正会員&nbsp;</span></p><p>（２）準会員\n</p><p><br></p><p>第２条（正会員の条件）\n</p><p>以下の条件のいずれかを満たした者で、理事会が承認した者を正会員とする。\n</p><p>・社員であること。\n</p><p>・当該土地を５０００坪以上保有していること。\n</p><p>・当社団に５０万円以上の寄附をしたこと。\n</p><p>\n</p><p>第３条（正会員の権利）\n</p><p>正会員は、ロッジと森を本人と本人から２親等まで無償で利用することが出来る。\n<span style=\"font-size: 1rem;\">但し、事前予約することが必要。&nbsp;</span></p><p>\n</p><p>第４条（準会員の条件）\n</p><p>正会員の推薦と本人の申出があり、下記のいずれかの項目を満たし理事会が承認した者を\n<span style=\"font-size: 1rem;\">準会員とする。&nbsp;</span></p><p>・元社員\n</p><p>・クラインガルテン長万部会の会員と元会員\n</p><p>・５０万円以上の寄附をしたこと\n</p><p>\n</p><p>第５条（準会員の権利）\n</p><p>準会員は、ロッジと森を本人と本人から２親等まで無償で利用することが出来る。\n<span style=\"font-size: 1rem;\">但し、事前予約することが必要。&nbsp;</span></p><p>\n</p><p>第６条（会員の義務）\n</p><p>本会の会員は、以下の義務を有する。\n</p><p>（１）本会員は、本会の信用を損なわないよう最大限に配慮しなければならない。\n</p><p>（２）本会員は、本社団の名義で債務もしくは責任を負担し、又は、負担させるいかなる<span style=\"font-size: 1rem;\">権利若しくは権限も有することはなく、有する旨を表明することも出来ないもの\n</span><span style=\"font-size: 1rem;\">とする。&nbsp;</span></p><p>（３）本会員は、第三者に対して本会員の権利を譲渡してはならない。\n</p><p>\n</p><p>第７条（会員の除名）\n</p><p>会員が、当法人の名誉を棄損し、又は当法人の目的に反するような行為をしたとき、\n<span style=\"font-size: 1rem;\">会員としての義務に違反したときは、理事会の決議により除名することができる。&nbsp;</span><span style=\"font-size: 1rem;\">尚、除名者に寄付金は返済しない。&nbsp;</span></p><p>\n</p><p>第８条（寄附金の振込場所）\n</p><p>・寄附金をゆうちょ銀行から振込む場合は次の内容で指定して下さい。\n</p><p>銀行名　ゆうちょ銀行　店名　〇一八（ゼロイチハチ）\n</p><p>普通預金　口座番号　９６０５１４４１\n</p><p>名義：シャ)ヒャクネンノモリヅクリオシャマンベ\n</p><p>・寄付金をゆうちょ銀行以外から振込む場合は次の内容で指定下さい。\n</p><p>銀行名　ゆうちょ銀行　店名　〇一八（ゼロイチハチ）店番　０１８\n</p><p>普通預金　口座番号　９６０５１４４\n</p><p>名義：シャ)ヒャクネンノモリヅクリオシャマンベ\n</p><p>\n</p><p>第９条（非会員のロッジと森の使用）\n</p><p>正会員・準会員の招待客のみが、ロッジ・森を使用することが出来る。\n<span style=\"font-size: 1rem;\">ロッジと森の維持、保全のための協力金２０００円／人／日の寄附をお願いする。&nbsp;</span><span style=\"font-size: 1rem;\">但し、理事会の承認があればこの限りでない。&nbsp;</span></p><p>\n</p><p>第１０条（ロッジと森の使用）\n</p><p>ロッジと森の使用は、別途定める使用マニュアルに従うこと。\n</p><p><span style=\"font-size: 1rem;\"><br></span></p><p><span style=\"font-size: 1rem;\">以上&nbsp;</span><br></p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rA9naG5XNb",
-          "_anchor": "content1-oa",
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b>一般社団法人 １００年の森づくり長万部の会員規約とロッジ・ガルテンの森の使用規約</b></div><div>2019年7月24日</div><div><b><br></b></div><ul>\n                    <li><b style=\"font-size: 1rem;\">第１条（会員）</b><span style=\"font-size: 1rem;\">本社団の目的に賛同し、理事会が承認した者を会員とし、会員は次の通りとする。&nbsp;<br></span>（１）正会員 （２）準会員</li><li><b>第２条（正会員の条件）</b>以下の条件のいずれかを満たした者で、理事会が承認した者を正会員とする。<br><br>　・社員であること。<br>　・当該土地を５０００坪以上保有していること。<br>　・当社団に５０万円以上の寄附をしたこと。</li><li><b>第３条（正会員の権利）</b>正会員は、ロッジと森を本人と本人から２親等まで無償で利用することが出来る。 但し、事前予約することが必要。 </li><li><b>第４条（準会員の条件）</b>正会員の推薦と本人の申出があり、下記のいずれかの項目を満たし理事会が承認した者を 準会員とする。 <br>　・元社員<br>　・クラインガルテン長万部会の会員と元会員<br>　・５０万円以上の寄附をしたこと</li><li><b>第５条（準会員の権利）</b>準会員は、ロッジと森を本人と本人から２親等まで無償で利用することが出来る。 但し、事前予約することが必要。 </li><li><b>第６条（会員の義務）</b>本会の会員は、以下の義務を有する。<br>（１） 本会員は、本会の信用を損なわないよう最大限に配慮しなければならない。<br>（２）本会員は、本社団の名義で債務もしくは責任を負担し、又は、負担させるいかなる権利若しくは権限も有することはなく、有する旨を表明することも出来ないもの とする。 （３）本会員は、第三者に対して本会員の権利を譲渡してはならない。</li><li><b>第７条（会員の除名）</b>会員が、当法人の名誉を棄損し、又は当法人の目的に反するような行為をしたとき、 会員としての義務に違反したときは、理事会の決議により除名することができる。 尚、除名者に寄付金は返済しない。 </li><li><b>第８条（寄附金の振込場所）</b>寄附金をゆうちょ銀行から振込む場合は次の内容で指定して下さい。<br>銀行名　ゆうちょ銀行　店名　〇一八（ゼロイチハチ）<br>普通預金　口座番号　９６０５１４４１<br>名義：シャ)ヒャクネンノモリヅクリオシャマンベ<br><br>寄付金をゆうちょ銀行以外から振込む場合は次の内容で指定下さい。<br>銀行名　ゆうちょ銀行　店名　〇一八（ゼロイチハチ）店番　０１８<br>普通預金　口座番号　９６０５１４４<br>名義：シャ)ヒャクネンノモリヅクリオシャマンベ</li><li><b>第９条（非会員のロッジと森の使用）</b>正会員・準会員の招待客のみが、ロッジ・森を使用することが出来る。 ロッジと森の維持、保全のための協力金２０００円／人／日の寄附をお願いする。 但し、理事会の承認があればこの限りでない。 </li><li><b>第１０条（ロッジと森の使用）</b>ロッジと森の使用は、別途定める<a href=\"lodge.html\" target=\"_blank\">使用マニュアル</a>に従うこと。</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAdaPiMd5j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content12-oe"
         }
       ]
     },
@@ -4156,18 +4209,55 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
             }
           },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>水・タンク・ポンプ<span style=\"font-size: 1rem;\">使用開始時の対応マニュアル&nbsp;</span></p><p>①\t黄色いタンク内を洗浄し、水を５００Ｌ入れる。\n</p><p>（軽トラを利用して和尚さんの別荘の水道を利用する。）\n</p><p>西念寺の和尚さんの好意により、水道水を頂いています。\n</p><p>　使用する場合、元栓を開け、終了したら必ず元栓を閉めて下さい。\n</p><p>　水漏れと冬に元栓が閉まっていないと破裂の恐れがあります。\n</p><p>②\t黄色いタンクを小屋にあるタンクの横につける。\n</p><p>③\t水中ポンプを黄色いタンクに入れ、ロッジ横の小屋にあるタンクの蓋をあけ、\n</p><p>ポンプについているホースの先を入れる。\n</p><p>④\tポンプの電源を入れる。（発電機を先に起動させること）\n</p><p>⑤\tホースから出る水を使い小屋のタンク内を洗浄する。\n</p><p>⑥\t黄色いタンクの全量が移ると自動的にポンプは止まる。\n</p><p>⑦\t水中ポンプの入口と出口にカバーし、ホコリが付かないように保管する。\n</p><p>⑧\t小屋タンク上部のモーターにさし水（ペットボトル）をする。\n</p><p>⑨\tモーターの電源を入れる。\n</p><p>⑩\t水抜き蛇口（※）を開栓し、そこから水が出ることを確認後、蛇口を閉める。\n</p><p>⑪\t他の蛇口からの水の使用が可能となる。\n</p><p>（※）ロッジ裏　2ケ所、トイレ寄りのバルコニー下　１ケ所、バルコニー　２カ所、\n</p><p>　　　物置小屋　１ケ所　計６カ所。\n</p><p>\n</p><p>＜冬場前の使用終了時の対応マニュアル＞\n</p><p>①\t電源を落とす。\n</p><p>②\t６か所（※）の水抜き蛇口をあけ、水抜きをする。\n</p><p>③\t水抜き後、カバーを外す。\n</p><p>④\tポンプのモーター横の圧力調整器を回して外す。\n</p><p>⑤\tモーターを１３パイのスパナで３つのネジを外し、モーターを外す。\n</p><p>⑥\tそこにある水をふき取るかスポイトでキレイにする。\n</p><p>⑦\t圧力調整器の手前にある黒いシーリングを外し、水を抜く。\n</p><p>⑧\tタンクの水を排出する。\n</p><p>⑨\t圧力調整器を元に戻す。\n</p><p>⑩\tモーターを元に戻す。\n</p><p>⑪\tカバーをつける。\n</p><p>⑫\t毛布を被せる。\n</p><p>⑬\tタンクに適量の漂白剤を入れる。\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rA9okzgZZw",
-          "_anchor": "content1-ob",
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b>ロッジ利用マニュアル</b></div><div><br></div><div><b>1. 水・タンク・ポンプ使用開始時の対応マニュアル&nbsp;</b></div><div><b><br></b><span style=\"font-size: 1rem;\">①黄色いタンク内を洗浄し、水を５００Ｌ入れる。</span><span style=\"font-size: 1rem;\">軽トラを利用して和尚さんの別荘の水道を利用する（西念寺の和尚さんの好意により、水道水を頂いています）。使用する場合、元栓を開け、終了したら必ず元栓を閉めて下さい。水漏れと冬に元栓が閉まっていないと破裂の恐れがあります。</span></div><div><br></div><div>②\t黄色いタンクを小屋にあるタンクの横につける。</div><div><br></div><div>③\t水中ポンプを黄色いタンクに入れ、ロッジ横の小屋にあるタンクの蓋をあけ、<span style=\"font-size: 1rem;\">ポンプについているホースの先を入れる。</span></div><div><br></div><div>④\tポンプの電源を入れる。（発電機を先に起動させること）</div><div><br></div><div>⑤\tホースから出る水を使い小屋のタンク内を洗浄する。</div><div><br></div><div>⑥\t黄色いタンクの全量が移ると自動的にポンプは止まる。</div><div><br></div><div>⑦\t水中ポンプの入口と出口にカバーし、ホコリが付かないように保管する。</div><div><br></div><div>⑧\t小屋タンク上部のモーターにさし水（ペットボトル）をする。</div><div><br></div><div>⑨\tモーターの電源を入れる。</div><div><br></div><div>⑩\t水抜き蛇口（※）を開栓し、そこから水が出ることを確認後、蛇口を閉める。</div><div>（※）ロッジ裏　2ケ所、トイレ寄りのバルコニー下　１ケ所、バルコニー　２カ所、物置小屋　１ケ所　計６カ所。</div><div><br></div><div>⑪\t他の蛇口からの水の使用が可能となる。</div><div><br></div><div><br></div><div><span style=\"font-size: 1rem;\"><b>2. 冬場前の使用終了時の対応マニュアル</b></span><br></div><div><br></div><div>①\t電源を落とす。</div><div><br></div><div>②\t６か所（※）の水抜き蛇口をあけ、水抜きをする。</div><div>（※）ロッジ裏　2ケ所、トイレ寄りのバルコニー下　１ケ所、バルコニー　２カ所、物置小屋　１ケ所　計６カ所。</div><div><br></div><div>③\t水抜き後、カバーを外す。</div><div><br></div><div>④\tポンプのモーター横の圧力調整器を回して外す。</div><div><br></div><div>⑤\tモーターを１３パイのスパナで３つのネジを外し、モーターを外す。</div><div><br></div><div>⑥\tそこにある水をふき取るかスポイトでキレイにする。</div><div><br></div><div>⑦\t圧力調整器の手前にある黒いシーリングを外し、水を抜く。</div><div><br></div><div>⑧\tタンクの水を排出する。</div><div><br></div><div>⑨\t圧力調整器を元に戻す。</div><div><br></div><div>⑩\tモーターを元に戻す。</div><div><br></div><div>⑪\tカバーをつける。</div><div><br></div><div>⑫\t毛布を被せる。</div><div><br></div><div>⑬\tタンクに適量の漂白剤を入れる。</div><div><br></div><div>以上</div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAdemuWBM4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content12-of"
         }
       ]
     },
@@ -4571,6 +4661,72 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-box": {
+              "padding": "0 2rem"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1rem",
+              "a": {
+                "margin-top": "1rem",
+                "margin-bottom": "0"
+              }
+            },
+            "h4": {
+              "font-weight": "500",
+              "margin-bottom": "0",
+              "text-align": "left",
+              "padding-top": "2rem"
+            },
+            "p": {
+              "margin-bottom": "0",
+              "text-align": "left",
+              "padding-top": "1.5rem",
+              "& when not (@showTitle)": {
+                "padding-top": "2rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            },
+            ".card-wrapper": {
+              "height": "100%",
+              "padding-bottom": "2rem",
+              "background": "@cardsBg",
+              "box-shadow": "0px 0px 0px 0px rgba(0, 0, 0, 0)",
+              "transition": "box-shadow 0.3s",
+              "& when not (@showTitle)": {
+                "& when not (@showText)": {
+                  "& when not (@showButtons)": {
+                    "padding-bottom": "0"
+                  }
+                }
+              },
+              "&:hover": {
+                "box-shadow": "0px 0px 30px 0px rgba(0, 0, 0, 0.05)",
+                "transition": "box-shadow 0.3s"
+              }
+            }
+          },
+          "_name": "features3",
+          "_customHTML": "<section class=\"features3\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImage\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Cards Bg\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background1.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ホームページオープン</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">2019.8.26&nbsp;社団法人100年の森づくりのホームページをオープンしました。</p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background2.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Mobile Friendly\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background3.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unique Styles\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6 col-lg-3\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background4.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAdgLN31nH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "features3-og"
         }
       ]
     },
