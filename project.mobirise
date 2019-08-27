@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "osyagarten2",
-    "currentPage": "mori.html",
+    "currentPage": "toiawase.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5311,7 +5311,8 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "left"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
