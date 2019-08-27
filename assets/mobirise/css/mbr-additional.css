@@ -3735,6 +3735,7 @@ body {
 .cid-rAjb6OKRKm .mbr-text,
 .cid-rAjb6OKRKm .mbr-section-btn {
   text-align: left;
+  color: #232323;
 }
 .cid-rAjb6OKRKm H1 {
   text-align: center;
@@ -3753,6 +3754,7 @@ body {
 .cid-rAjbTmHsLG .mbr-text,
 .cid-rAjbTmHsLG .mbr-section-btn {
   text-align: left;
+  color: #232323;
 }
 .cid-qv1frvgcz3 .navbar {
   padding: .5rem 0;
@@ -4136,7 +4138,7 @@ body {
   background-color: #f9f9f9;
 }
 .cid-rAj660rWZB .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: left;
 }
 .cid-rAj660rWZB .container-table {
@@ -4600,6 +4602,9 @@ body {
 .cid-rAdaPiMd5j .counter-container ul li {
   margin-bottom: 1rem;
 }
+.cid-rAdaPiMd5j .mbr-text {
+  color: #232323;
+}
 .cid-qv1frvgcz3 .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -4989,6 +4994,9 @@ body {
 }
 .cid-rAdemuWBM4 .counter-container ul li {
   margin-bottom: 1rem;
+}
+.cid-rAdemuWBM4 .mbr-text {
+  color: #232323;
 }
 .cid-qv1frvgcz3 .navbar {
   padding: .5rem 0;
@@ -5393,7 +5401,7 @@ body {
   padding-top: 1.5rem;
 }
 .cid-rAdgLN31nH .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-rAdgLN31nH .card-wrapper {
   height: 100%;
@@ -5791,7 +5799,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rA9pn7iskE .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: left;
 }
 .cid-rA9pn7iskE a:not([href]):not([tabindex]) {
